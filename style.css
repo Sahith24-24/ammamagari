@@ -716,8 +716,8 @@ a {
 }
 
 .logo-img {
-    width: 85px;
-    height: 85px;
+    width: 90px !important;
+    height: 90px !important;
     object-fit: cover;
     border-radius: 50%;
 }
@@ -727,7 +727,7 @@ a {
     flex-direction: column;
 }
 .logo {
-    gap: 6px;
+    gap: 3px;
 }
 
 .logo-text {
@@ -741,7 +741,7 @@ a {
 }
 .logo-text,
 .logo-sub {
-    margin: 0;
-    line-height: 1.2;
+    margin: 0 !important;
+    line-height: 1.1;
 }
 
