@@ -716,8 +716,8 @@ a {
 }
 
 .logo-img {
-    width: 70px;
-    height: 70px;
+    width: 85px;
+    height: 85px;
     object-fit: cover;
     border-radius: 50%;
 }
@@ -727,7 +727,7 @@ a {
     flex-direction: column;
 }
 .logo {
-    gap: 15px;
+    gap: 6px;
 }
 
 .logo-text {
@@ -738,5 +738,10 @@ a {
 .logo-sub {
     font-size: 11px;
     color: gray;
+}
+.logo-text,
+.logo-sub {
+    margin: 0;
+    line-height: 1.2;
 }
 
