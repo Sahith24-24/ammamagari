@@ -716,8 +716,8 @@ a {
 }
 
 .logo-img {
-    width: 90px !important;
-    height: 90px !important;
+    width: 180px !important;
+    height: 180px !important;
     object-fit: cover;
     border-radius: 50%;
 }
